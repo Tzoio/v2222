@@ -1,0 +1,44 @@
+-branch = É uma arvore genealogíca, que cada um coida do seu 
+	
+-commit = É um "Checkpoint"
+
+-push = mandar para a internet 
+
+-pull = para vc pegar da internet
+
+(Git Status = Status do Repositório 
+Git Status Rastrado
+Git Status Não Rastrado
+Git Status Modificado)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Git init = Inicio de tudo
+
+Git config = Adc email no global 
+
+(Git config --global user.name "Vinicius"
+Git config --global user.email "Viniciusaolima@gmail.com")
+
+Git add . = Pegar todos arquivos
+Git add . Digita o arquivo.php = pegar arquivo especifico
+
+Git commit -m "Mensagem"
+
+comando para gerar cchave de ssh
+-ssh-Keygen -t ed25519 -c "Seu email"
+
+comando para vincular o repositório remoto
+-git remote add origin git@github.com : viniciusaolima@gmail.com
+
+iniciar OpenSSH
+-git-WindowsCapability -online | Where-Object name
+
+https
+-git remote add origin https://github.com/Tzoio/Vini.git	
+SSH
+-git remote add origin git@github.com:Tzoio/Vini.git
+
+
+
+  
+
